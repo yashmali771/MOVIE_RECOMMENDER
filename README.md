@@ -10,4 +10,8 @@ the .py file uses streamlit to build a website to make the system more user frie
 
 
 To run the webpage locally.
-Go to .py file and Type streamlit run app.py in the terminal
+Go to .py file and Type 
+```bash
+  streamlit run app.py
+```  
+in the terminal
